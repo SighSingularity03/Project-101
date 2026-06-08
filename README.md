@@ -30,3 +30,4 @@ Generated an SSH key pair in the terminal and added the public key to GitHub.
 Used the standard Git workflow: `git add` → `git commit` → `git push`.
 
 ## Outcome
+Completed the portfolio project.
